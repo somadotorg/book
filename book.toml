@@ -7,3 +7,8 @@ title = "Soma"
 
 [output.html]
 mathjax-support = true
+default-theme = "light"
+preferred-dark-theme = "light"
+git-repository-url = "https://github.com/somadotorg/book"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/somadotorg/book/edit/main/{path}"
