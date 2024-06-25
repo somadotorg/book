@@ -3,7 +3,7 @@ authors = ["Soma Contributors"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Soma"
+title = "S❍MA"
 
 [output.html]
 mathjax-support = true

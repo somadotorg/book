@@ -1,4 +1,6 @@
-BLANK creates a common language for machines to communicate about the world.
+![SOMA Wordmark](../images/soma_wordmark.png)
+
+Soma creates a common language for machines to communicate about the world.
 
 The current paradigm in artificial intelligence relies heavily on siloed models, each trained on specific datasets, leading to a fragmentation of knowledge and inefficiencies in knowledge transfer. This approach not only hinders generalization across all tasks but also creates barriers to accessing and leveraging intelligence on a global scale, as models cannot seamlessly share or build upon each other's insights due to the lack of a common language.
 
