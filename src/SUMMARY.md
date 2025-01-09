@@ -1,61 +1,72 @@
 # Summary
 
-[Introduction](./README.md)
 
-# GET STARTED
+# INTRODUCTION
+- [Introduction](./1_introduction/README.md)
+- [Applications]()
+
+# GETTING STARTED
 
 - [Using the Network]()
-- [Competing for ML Rewards]()
+    - [Creating an Account]()
+    - [Bridging]()
+    - [Transfers]()
+    - [Staking]()
+    - [Submitting Data]()
+    - [Using Historical Data]()
+    - [Creating Data Bounties]()
+- [Training an Encoder]()
+    - [Understanding the Objective]()
+    - [Acquiring Data]()
+    - [Training a Model]()
+    - [Local Evaluation]()
+    - [Joining the Network]()
+    - [Monitoring]()
 - [Running a Validator]()
+    - [Requirements]()
+    - [Installation]()
+    - [Monitoring]
 
-# CONCEPTS
+# CORE CONCEPTS
 
-- [Embeddings](./concepts/embeddings.md)
-- [Training Encoders](./concepts/training_encoders.md)
-- [Data Masking](./concepts/data_masking.md)
-- [Embedding Consensus](./concepts/embedding_consensus.md)
-- [Benchmarks](./concepts/benchmarks.md)
-- [Data Incentives](./concepts/data_incentives.md)
-- [Multimodality](./concepts/multimodality.md)
-- [Rewards and Fees](./concepts/rewards_and_fees.md)
+- [Embeddings](./3_core_concepts/embeddings.md)
+- [Training Encoders](./3_core_concepts/training_encoders.md)
+- [Data Masking](./3_core_concepts/data_masking.md)
+- [Embedding Consensus](./3_core_concepts/embedding_consensus.md)
+- [Benchmarks](./3_core_concepts/benchmarks.md)
+- [Data Incentives](./3_core_concepts/data_incentives.md)
+- [Multimodality](./3_core_concepts/multimodality.md)
+- [Rewards and Fees](./3_core_concepts/rewards_and_fees.md)
 
-# GUIDES
-
-- [Embeddings API]()
-- [ML Competiton]()
-- [Validators]()
 
 # ADVANCED TOPICS
 
-- [System Overview](./advanced_topics/system_overview.md)
-- [Embeddings](./advanced_topics/embeddings.md)
-- [Shared World Model](./advanced_topics/shared_world_model.md)
-- [Training Encoders](./advanced_topics/training_encoders.md)
-- [Masking Input Data](./advanced_topics/masking_input_data.md)
-- [Differential Loss](./advanced_topics/differential_loss.md)
-- [Shard Selection](./advanced_topics/shards.md)
-- [Market of Experts](./advanced_topics/market_of_experts.md)
-- [Calling Encoders](./advanced_topics/calling_encoders.md)
-- [Tokenomics](./advanced_topics/tokenomics.md)
-- [Fees, Rewards, and Slashing](./advanced_topics/fees_rewards_and_slashing.md)
-- [Proof of Curiosity](./advanced_topics/proof_of_curiosity.md)
-- [Multimodality](./advanced_topics/multimodality.md)
-- [Delegated Stake](./advanced_topics/delegated_stake.md)
-- [Consensus](./advanced_topics/consensus.md)
-- [Epochs](./advanced_topics/epochs.md)
-- [State Sync](./advanced_topics/state_sync.md)
-- [Data Sync](./advanced_topics/data_sync.md)
-- [Transaction Types](./advanced_topics/transaction_types.md)
+- [System Overview](./4_advanced_topics/system_overview.md)
+- [Embeddings](./4_advanced_topics/embeddings.md)
+- [Shared World Model](./4_advanced_topics/shared_world_model.md)
+- [Training Encoders](./4_advanced_topics/training_encoders.md)
+- [Masking Input Data](./4_advanced_topics/masking_input_data.md)
+- [Differential Loss](./4_advanced_topics/differential_loss.md)
+- [Shard Selection](./4_advanced_topics/shards.md)
+- [Market of Experts](./4_advanced_topics/market_of_experts.md)
+- [Calling Encoders](./4_advanced_topics/calling_encoders.md)
+- [Tokenomics](./4_advanced_topics/tokenomics.md)
+- [Fees, Rewards, and Slashing](./4_advanced_topics/fees_rewards_and_slashing.md)
+- [Proof of Curiosity](./4_advanced_topics/proof_of_curiosity.md)
+- [Multimodality](./4_advanced_topics/multimodality.md)
+- [Delegated Stake](./4_advanced_topics/delegated_stake.md)
+- [Consensus](./4_advanced_topics/consensus.md)
+- [Epochs](./4_advanced_topics/epochs.md)
+- [State Sync](./4_advanced_topics/state_sync.md)
+- [Data Sync](./4_advanced_topics/data_sync.md)
+- [Transaction Types](./4_advanced_topics/transaction_types.md)
+
+
+# CONTRIBUTING
+- [Getting Started]()
+- [Areas of Contribution]()
+- [Testing Locally]()
 
 
 # REFERENCE
-
-- [Encoder Specification]()
-- [RPC Specification]()
-- [P2P Specification]()
-- [Governance Parameters](./reference/parameters.md)
-
-# NOTES
-
-- [ML Unknowns](./notes/ml_unknowns.md)
-- [Unknowns](./notes/unknowns.md)
+- [Governance Parameters](./6_reference/parameters.md)
