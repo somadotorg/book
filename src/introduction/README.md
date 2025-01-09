@@ -1,4 +1,4 @@
-![SOMA Wordmark](images/soma_wordmark.png)
+![SOMA Wordmark](../images/soma_wordmark.png)
 
 Throughout history, humanity has built a shared understanding of the world. The relentless quest for knowledge has driven us towards abundance and prosperity. As AI systems promise to advance our knowledge even further, they must *accurately understand the universe.*
 
