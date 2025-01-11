@@ -2,7 +2,7 @@
 
 
 # INTRODUCTION
-- [Introduction](./introduction/README.md)
+- [Introduction](./README.md)
 - [Use Cases]()
 - [FAQ]()
 
