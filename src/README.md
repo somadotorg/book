@@ -1,12 +1,13 @@
 ![SOMA Wordmark](images/soma_wordmark.png)
 
-Throughout history, **humanity's greatest power has been our drive to understand**. This endless curiosity transformed caves into cities and revealed the laws that govern galaxies.
+Humanity's greatest power has been our drive to understand. This endless curiosity transformed caves into cities and revealed the laws that govern galaxies.
 
-Artificial intelligence is a tool that, **if created responsibly**, will help us understand at greater complexity, just as a telescope allows us see further. In this spirit, **S❍MA aims to uncover patterns and connections in knowledge that have remained hidden from human view.**
+Artificial intelligence, if created responsibly, is a tool that helps us understand at greater levels of complexity. Just as a telescope allows us to see further, S❍MA aims to uncover patterns and connections that have remained hidden from human view.
 
-The purpose of S❍MA is to **harness this ability, continuously extracting patterns from data to build an ever more precise model of the world.**
+S❍MA is a distributed system that continuously incentivizes the ingestion of new data from any source and evaluates how each contribution improves its comprehension of the world. 
 
-To achieve this, S❍MA is a distributed system that **incentivizes the ingestion of new data from any source, quantifying how each contribution improves its comprehension of the world**. In doing so, it extends humanity's greatest power: turning the unknown into understanding.
+In doing so, it extends humanity's greatest power: turning the unknown into understanding.
+
 
 ## Ways to Participate
 
