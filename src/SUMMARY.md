@@ -3,6 +3,7 @@
 
 # INTRODUCTION
 - [Introduction](./README.md)
+- [Vision & Architecture]() 
 - [Use Cases]()
 - [FAQ]()
 
