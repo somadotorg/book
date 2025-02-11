@@ -1,60 +1,47 @@
+jan 11 potential layout
 
-
-# Introduction
-
-Vision and mission
-Problem space and why decentralization matters
-High-level overview
-
-# Use Cases
-
-Real-world applications
-Case studies
-Integration examples
-Success stories
-Problem-solution patterns
+# Overview
+- [Introduction](./README.md)
+- [Vision & Architecture]() 
+- [Network Economics]()
+- [Use Cases & Applications]()
 
 # Getting Started
+- [Quick Start Guide]()
+- [Create an Account]()
+- [Network Dashboard]()
+- [Common Tasks]()
 
-Installation and setup
-Basic concepts and terminology
-First node setup
-Initial contribution
+# Participate
+- [Understanding Roles]()
+- [Submitting Data]()
+  - [Data Standards]()
+  - [Rewards & Incentives]()
+  - [Creating Bounties]()
+- [Running a Node]()
+  - [Requirements]()
+  - [Setup Guide]()
+  - [Maintenance]()
+- [Model Development]()
+  - [Architecture Overview]()
+  - [Training Pipeline]()
+  - [Testing & Validation]()
+  - [Deployment]()
 
-# Core Concepts
+# Technical Reference
+- [Network Protocol]()
+- [API Documentation]()
+- [Smart Contracts]()
+- [Governance Parameters](./reference/parameters.md)
 
-Decentralization principles
-Network topology
-Knowledge representation
-Consensus mechanisms
-Incentive structures
+# Resources
+- [FAQ]()
+- [Tutorials]()
+- [Troubleshooting]()
+- [Glossary]()
 
-# Network Architecture
-
-Node types and roles
-Data flow
-Security model
-Scalability
-Fault tolerance
-
-# Contributing
-
-Development setup
-Standards and guidelines
-Testing
-Submission process
-
-# Advanced Topics
-
-Custom implementations
-Network analysis
-Performance optimization
-Privacy and governance
-
-# Reference
-
-API documentation
-Configuration
-Parameters
-Troubleshooting
-Communities
+# Community
+- [Contributing Guide]()
+- [Development Roadmap]()
+- [Governance Process]()
+- [Community Guidelines]()
