@@ -1,12 +1,18 @@
 ![SOMA Wordmark](images/soma_wordmark.png)
 
-Humanity's greatest power has been our drive to understand. This endless curiosity transformed caves into cities and revealed the laws that govern galaxies.
+The purpose of Soma is to acquire knowledge by following curiosity. 
 
-Artificial intelligence, if created responsibly, is a tool that helps us understand at greater levels of complexity. Just as a telescope allows us to see further, AI should uncover patterns and connections that are hidden from human view.
+Soma is an incentive system designed to continuously train an ultra large neural network and reward data that helps it learn. 
 
-S❍MA is a distributed network of computers that continuously incentivizes the ingestion of new data from any source and evaluates how each contribution improves its comprehension of the world. Anyone in the world can submit data, or develop models that extract patterns and connections. 
+Similar to how Bitcoin miners compete to earn block rewards, data submitted to Soma competes for rewards based on how learnable it is. The scoring of data is performed by the neural network. As the network learns, it becomes better at self critiquing the quality of data.
 
-This endless search for novelty serves one purpose: to extend humanity's greatest legacy – our ceaseless curiosity to understand.
+The fly wheel of incentivizing data, evaluating whether it is useful, and then training on the most useful examples is a novel approach that only works when the training process is open.
+
+Great care has been taken to make Soma permission-less. 
+
+This means that anyone can contribute training data or change parts of the network architecture. Allowing anyone to “alter” the network is a radical departure from large AI labs. Instead of a top down approach, Soma uses a bottom up approach: start with simple rules and allow self assembly and the emergence of intelligence. 
+
+We believe this is more in line with how nature works, and how data is created in the world.
 
 ## Quick Links
 
