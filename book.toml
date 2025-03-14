@@ -5,10 +5,14 @@ multilingual = false
 src = "src"
 title = "S❍MA"
 
+[build]
+create-missing = false
+
+[preprocessor.external-links]
+
 [output.html]
-mathjax-support = true
+git-repository-url = "https://github.com/somadotorg/book"
+edit-url-template = "https://github.com/somadotorg/book/edit/main/{path}"
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
-git-repository-url = "https://github.com/somadotorg/book"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/somadotorg/book/edit/main/{path}"
